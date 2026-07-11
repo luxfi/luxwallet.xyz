@@ -14,7 +14,7 @@ env:
 
 jobs:
   build-and-release:
-    runs-on: [self-hosted, Linux]
+    runs-on: lux-build-amd64
     steps:
       - uses: actions/checkout@v2
         with:
