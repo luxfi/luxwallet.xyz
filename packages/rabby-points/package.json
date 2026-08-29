@@ -9,26 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@rabby-wallet/rabby-api": "0.7.21",
-    "jotai": "^2.6.4",
-    "next": "^14.2.3",
-    "qrcode.react": "^3.1.0",
-    "react": "^18",
-    "react-dom": "^18",
-    "react-hot-toast": "^2.4.1",
+    "@rabby-wallet/rabby-api": "^0.9.64",
+    "jotai": "^2.20.3",
+    "next": "16.3.3",
+    "qrcode.react": "^4.2.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-hot-toast": "^2.6.0",
     "react-query": "^3.39.3",
-    "viem": "^2.13.3"
+    "viem": "^2.56.0"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10.0.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.0.4",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
-    "typescript": "^5"
+    "@types/node": "26.4.0",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.5",
+    "autoprefixer": "^10.5.4",
+    "eslint": "^10.9.1",
+    "eslint-config-next": "^16.3.3",
+    "postcss": "^8.5.26",
+    "tailwindcss": "^4.3.3",
+    "typescript": "7.0.2"
   },
   "resolutions": {
     "@rabby-wallet/rabby-sign": "0.3.4"
